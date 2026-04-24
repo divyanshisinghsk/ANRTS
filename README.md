@@ -1,5 +1,5 @@
 # ANRTS
-Aadhi Nadi Tracking System is a student project tracking various parameters in waterbodies and displaying them in an app.
+Aadhi Nadi Water Tracking System is a student project tracking various parameters in waterbodies and displaying them in an app.
 
 Parameters for v1 - Turbidity, Temperature, Photos accross intervals.
 
